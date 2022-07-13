@@ -4,6 +4,8 @@
 [Profile](#profile) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [education](#education) | [interests](#interests)
 </div>
 
+---
+
 # **Profile**
 
 
@@ -11,7 +13,11 @@
 
 
 # **Skills**
-
+- ## Communication and customer focus
+- ## Problem solving
+- ## Attention to detail
+- ## Collaborating with others
+- ## Advising and Influencing
 
 # **Experience**
 
