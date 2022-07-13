@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/SophLewDev/SophLewDev/blob/main/imagesvideos/banner_video2.gif" alt="banner"/>
-</p>
+  
+[Profile](#profile) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [education](#education) | [interests](#interests)
+</div>
 
 # **Profile**
 
