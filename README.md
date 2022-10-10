@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/SophLewDev/SophLewDev/blob/main/imagesvideos/banner_video2.gif" alt="banner"/>
   
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests)
 </div>
 
 ---
@@ -31,7 +31,19 @@ XXX  | XXX  | XXX  | XXX
 - ### Collaborating with others
 - ### Advising and Influencing
 
-## **Experience**
+## **Work Experience**
+
+### Natural Resources Wales (2018-2022)
+*Access to Information and Complaints Officer*
+- XX
+
+### Eisteddfod yr Urdd (2017-2022)
+*Dance Adjudicator*
+- XX
+
+### Treganna Primary School (2017-2018)
+*Learning Support Assistant*
+- XX
 
 
 ## **Education**
