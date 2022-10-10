@@ -45,8 +45,14 @@ XXX  | XXX  | XXX  | XXX
 *Learning Support Assistant*
 - XX
 
-
 ## **Education**
 
+### Makers Academy (June 2022-October 2022)
+*Intensive Full Stack Software Engineering Bootcamp*
+- XX
+
+### Cardiff University (2013-2017)
+*BA Mathemetaics and Music Joint Honours*
+- XX
 
 ## **Interests**
