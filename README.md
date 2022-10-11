@@ -58,11 +58,17 @@ XXX  | XXX  | XXX  | XXX
 
 ### Makers Academy (June 2022-October 2022)
 *Intensive Full Stack Software Engineering Bootcamp*
-- XX
+- Participated in consistent pair programming and team engineering projects.
+- Object-Orientated Programming, Test Driven Development, Agile Workflow
+- Languages: Ruby, Javascript, SQL.
+- Frameworks: Express, Phaser, Rails.
+- Testing Frameworks: RSpec, Jest, Cypress.
 
 ### Cardiff University (2013-2017)
 *BA Mathematics and Music Joint Honours*
-- XX
+- Accomplished a dissertation on 'Is whistling an instrument or a form of communication'.
+- Studied and solved countless mathematical proofs and problems.
+- Obtained excellent Micrsoft Word, Excel, and Powerpoint skills.
 
 ## **Interests**
 - *Music:* play the Piano (grade 8), Violin (grade 8), and Harp (grade 4).
