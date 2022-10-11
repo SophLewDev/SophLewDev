@@ -30,12 +30,18 @@ XXX  | XXX  | XXX  | XXX
 - ### Attention to detail
 - ### Collaborating with others
 - ### Advising and Influencing
+- ### Time Management
 
 ## **Work Experience**
 
 ### Natural Resources Wales (2018-2022)
 *Access to Information and Complaints Officer*
-- XX
+
+- Dealt with customer complaints and Freedom of Information / Environmental Information Regulation requests in a timely manner.
+- Met regulatory deadlines in line with the Ombudsman Services and Information Commissioner's office.
+- Supported internal and external customers with queries relating to complaints and data requests.
+- Produced a monthly Customer Dashboard which included all statistics and a narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
+- Created and improved internal policies for complaints and Data Protection / Subject Access Requests.
 
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
@@ -52,7 +58,7 @@ XXX  | XXX  | XXX  | XXX
 - XX
 
 ### Cardiff University (2013-2017)
-*BA Mathemetaics and Music Joint Honours*
+*BA Mathematics and Music Joint Honours*
 - XX
 
 ## **Interests**
