@@ -40,7 +40,7 @@ XXX  | XXX  | XXX  | XXX
 - Dealt with customer complaints and Freedom of Information / Environmental Information Regulation requests in a timely manner.
 - Met regulatory deadlines in line with the Ombudsman Services and Information Commissioner's office.
 - Supported internal and external customers with queries relating to complaints and data requests.
-- Produced a monthly Customer Dashboard which included all statistics and a narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
+- Produced a monthly Customer Dashboard that included all statistics and a narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
 - Created and improved internal policies for complaints and Data Protection / Subject Access Requests.
 
 ### Eisteddfod yr Urdd (2017-2022)
