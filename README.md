@@ -12,7 +12,7 @@
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in October 2022.
 * :desktop_computer: Skilfully versed in following an agile workflow and precise Test Driven Development process.
 * :heavy_heart_exclamation: Passion for problem-solving and the pursuance of efficiency.
-* :wales: I'm bilingual
+* :dragon: I'm bilingual
 * :calendar: An excellent team-member with industry standard experience of working with internal and external customers and meeting regulatory deadlines.
 * :headphones: Love for gaming and music.
 
@@ -65,7 +65,7 @@ XXX  | XXX  | XXX  | XXX
 - XX
 
 ## **Interests**
-- Music: play the Piano (grade 8), Violin (grade 8), and Harp (grade 4).
-- Dancing: hold qualifications in Ballet and Hip-Hop. It's the best form of exercise!
-- Gaming: love losing myself into the world of games.
-- Codewars: currently 5kyu, but will be climbing higher soon!
+- *Music:* play the Piano (grade 8), Violin (grade 8), and Harp (grade 4).
+- *Dancing:* hold qualifications in Ballet and Hip-Hop. It's the best form of exercise!
+- *Gaming:* love losing myself into the world of games.
+- *Codewars:* currently 5kyu, but will be climbing higher soon!
