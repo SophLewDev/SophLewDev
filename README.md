@@ -45,15 +45,24 @@ XXX  | XXX  | XXX  | XXX
 - Produced a monthly Customer Dashboard that included statistics and a written narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
 - Created and improved internal policies for complaints and Data Protection / Subject Access Requests.
 
+
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
 - Adjudicated several dance categories in Wales' biggest competitive festival.
 - Critiqued and wrote commentary for each individual and group performance.
 
+
+### BBC Wales - National Eisteddfod (2018)
+*EVS Logger*
+- Logged and submitted data for each contestant in a fast-paced environment.
+- Required the utmost focus and communication with all coworkers.
+
+
 ### Treganna Primary School (2017-2018)
 *Learning Support Assistant*
 - Aided autistic children in their learning in a 1:1 environment.
 - Provided creative thinking and patience to accomodate their learning difficulties.
+
 
 ## **Education**
 
