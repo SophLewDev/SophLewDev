@@ -61,7 +61,7 @@ XXX  | XXX  | XXX  | XXX
 ### Treganna Primary School (2017-2018)
 *Learning Support Assistant*
 - Aided autistic children in their learning in a 1:1 environment.
-- Provided creative thinking and patience to accomodate their learning difficulties.
+- Provided creative thinking and patience to accommodate their learning difficulties.
 
 
 ## **Education**
