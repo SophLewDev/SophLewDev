@@ -69,7 +69,7 @@ XXX  | XXX  | XXX  | XXX
 ### Makers Academy (June 2022-October 2022)
 *Intensive Full Stack Software Engineering Bootcamp*
 - Participated in consistent pair programming and team engineering projects.
-- Object-Orientated Programming, Test Driven Development, Agile Workflow
+- Conscientiously follow Object-Orientated Programming, Test Driven Development, Agile Workflow
 - Languages: Ruby, JavaScript, SQL.
 - Frameworks: Express, Phaser, Rails.
 - Testing Frameworks: RSpec, Jest, Cypress.
