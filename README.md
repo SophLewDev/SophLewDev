@@ -10,7 +10,7 @@
 
 ## **About me**
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in October 2022.
-* :dragon: I'm bilingual
+* :dragon: Bilingual
 * :desktop_computer: Skilfully versed in following an agile workflow and precise Test Driven Development process.
 * :heavy_heart_exclamation: Passion for problem-solving and the pursuance of efficiency.
 * :calendar: An excellent team-member with industry standard experience of working with internal and external customers and meeting regulatory deadlines.
