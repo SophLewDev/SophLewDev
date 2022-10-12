@@ -70,7 +70,7 @@ XXX  | XXX  | XXX  | XXX
 *Intensive Full Stack Software Engineering Bootcamp*
 - Participated in consistent pair programming and team engineering projects.
 - Object-Orientated Programming, Test Driven Development, Agile Workflow
-- Languages: Ruby, Javascript, SQL.
+- Languages: Ruby, JavaScript, SQL.
 - Frameworks: Express, Phaser, Rails.
 - Testing Frameworks: RSpec, Jest, Cypress.
 
