@@ -55,7 +55,7 @@ XXX  | XXX  | XXX  | XXX
 ### BBC Wales - National Eisteddfod (2018)
 *EVS Logger*
 - Logged and submitted data for each contestant in a fast-paced environment.
-- Required the utmost focus and communication with all coworkers.
+- Required the utmost focus and communication with all coworkers to ensure high accuracy and attention to detail.
 
 
 ### Treganna Primary School (2017-2018)
