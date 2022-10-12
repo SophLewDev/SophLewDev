@@ -48,8 +48,8 @@ XXX  | XXX  | XXX  | XXX
 
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
-- Adjudicated several dance categories in Wales' biggest competitive festival.
-- Critiqued and wrote commentary for each individual and group performance.
+- Adjudicated several dance categories for Wales' biggest competitive festival aided by my excellent decision making skills.
+- Critiqued and wrote written commentary for each individual and group performance.
 
 
 ### BBC Wales - National Eisteddfod (2018)
