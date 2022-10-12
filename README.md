@@ -38,7 +38,7 @@ XXX  | XXX  | XXX  | XXX
 ### Natural Resources Wales (2018-2022)
 *Access to Information and Complaints Officer*
 
-- Dealt with customer complaints and Freedom of Information / Environmental Information Regulation requests in a timely manner.
+- Ensured customer complaints and Freedom of Information / Environmental Information Regulation requests were dealt in a timely manner.
 - Managed all complaints across Wales by delegating to the team.
 - Analysed complex and sensitive data while meeting regulatory deadlines in line with the Ombudsman Services and Information Commissioner's office.
 - Supported internal and external customers with queries relating to complaints and data requests by having 1:1 and team meetings.
