@@ -76,7 +76,7 @@ XXX  | XXX  | XXX  | XXX
 
 ### Cardiff University (2013-2017)
 *BA Mathematics and Music Joint Honours*
-- Accomplished a dissertation on 'Is whistling an instrument or a form of communication'.
+- Accomplished a dissertation on whistling, whether it is an instrument or a form of communication
 - Acquired a creative and logical thinking with both subjects.
 - Studied and solved countless mathematical proofs and problems.
 - Obtained excellent Micrsoft Word, Excel, and Powerpoint skills.
