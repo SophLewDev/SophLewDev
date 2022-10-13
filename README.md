@@ -10,11 +10,13 @@
 
 ## **About me**
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in October 2022.
-* :dragon: Bilingual
-* :desktop_computer: Skilfully versed in following an agile workflow and precise Test Driven Development process.
-* :heavy_heart_exclamation: Passion for problem-solving and the pursuance of efficiency.
-* :calendar: An excellent team-member with industry standard experience of working with internal and external customers and meeting regulatory deadlines.
+* :dragon: Bilingual: Welsh and English.
 * :headphones: Love for gaming and music.
+* :heavy_heart_exclamation: Passion for problem-solving and the pursuance of efficiency. I like to solve everyone's problems!
+* :standing_woman: An excellent team-member with industry standard experience of helping and working with internal and external customers.
+* :desktop_computer: Skilfully versed in following DRY and SRP!
+* :dancer: Dancer: competed, taught, adjudicated.
+* :dog: A big dog lover.
 
 
 ## **Projects**
