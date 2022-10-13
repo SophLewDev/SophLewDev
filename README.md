@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/SophLewDev/SophLewDev/blob/main/imagesvideos/banner_video2.gif" alt="banner"/>
   
-[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests)
+[About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 </div>
 
 ---
@@ -33,9 +33,17 @@ XXX  | XXX  | XXX  | XXX
 - ### Advising and Influencing
 - ### Time Management
 
-## **Work Experience**
+## **Experience**
 
-### Natural Resources Wales (2018-2022)
+### Makers Academy (June 2022-October 2022)
+*Intensive Full Stack Software Engineering Bootcamp*
+- Participated in consistent pair programming and team engineering projects.
+- Conscientiously follow Object-Orientated Programming, Test Driven Development, Agile Workflow, debugging tools
+- Languages: Ruby, JavaScript, SQL.
+- Frameworks: Express, Phaser, Rails.
+- Testing Frameworks: RSpec, Jest, Cypress.
+
+### Natural Resources Wales (2020-2022)
 *Access to Information and Complaints Officer*
 
 - Ensured customer complaints and Freedom of Information / Environmental Information Regulation requests were dealt in a timely manner.
@@ -45,6 +53,14 @@ XXX  | XXX  | XXX  | XXX
 - Produced a monthly Customer Dashboard that included statistics and a written narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
 - Created and improved internal policies for complaints and Data Protection / Subject Access Requests to improve the customer and staff experience.
 
+### Natural Resources Wales (2018-2020)
+*Customer Care Advisor*
+
+- Responsible for resolving customer enquiries across Wales over the telephone, email or digital form.
+- Processed licences and application forms to ensure customers were adhering to environmental regulations.
+- Delegated customer enquiry emails to the team.
+- Managed customer refund requests to ensure they were actioned accordingly and provided within the given timeframe.
+- Produced and improved an internal database that included information on all teams across the organisation and their remit, to ensure that customer enquiries were correctly handled.
 
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
@@ -65,14 +81,6 @@ XXX  | XXX  | XXX  | XXX
 
 
 ## **Education**
-
-### Makers Academy (June 2022-October 2022)
-*Intensive Full Stack Software Engineering Bootcamp*
-- Participated in consistent pair programming and team engineering projects.
-- Conscientiously follow Object-Orientated Programming, Test Driven Development, Agile Workflow, debugging tools
-- Languages: Ruby, JavaScript, SQL.
-- Frameworks: Express, Phaser, Rails.
-- Testing Frameworks: RSpec, Jest, Cypress.
 
 ### Cardiff University (2013-2017)
 *BA Mathematics and Music Joint Honours*
