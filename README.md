@@ -28,12 +28,18 @@ Name          | Description   | Timeframe     | Tech/Tools
 [Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
 
 ## **Skills**
-- ### Communication and customer focus
-- ### Problem solving
-- ### Attention to detail
-- ### Collaborating with others
-- ### Advising and Influencing
-- ### Time Management
+### Communication and customer focus
+- Managed all complaints that Natural Resources Wales received from customers, and coordinated responses with various teams and seniority levels across the organisation.
+- Part of my role was to review all internal complaint responses before they were sent to the customer. I received a draft complaint response from a team manager; however, the response did not address all of the customer's concerns and was slightly defensive.
+- I included comments and tracked changes to the document and immediately organised a 1:1 meeting with the manager to discuss the comments, provide suggestions, and tips for future responses.
+- This ensured that the customer received an empathetic customer-focussed response which met their needs and addressed all of their issues.
+- My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories, keeping the customer at the heart of the project.
+
+### Problem solving
+### Attention to detail
+### Collaborating with others
+### Advising and Influencing
+### Time Management
 
 ## **Experience**
 
