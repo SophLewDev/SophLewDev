@@ -40,9 +40,9 @@ Name          | Description   | Timeframe     | Tech/Tools
 ### Makers Academy (June 2022-October 2022)
 *Intensive Full Stack Software Engineering Bootcamp*
 - Participated in consistent pair programming and team engineering projects whilst following an Agile workflow. This enabled a great design sprint and flexibility throughout the project for change.
-- Followed Object-Orientated Programming with the languages Ruby and Javscript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle.
+- Followed Object-Orientated Programming with the languages Ruby and JavaScript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle.
 - Strongly used Test Driven Development to a high standard throughout the bootcamp with RSpec, Jest and Cypress. This is highly apparent in my Makers Code Reviews.
-- Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with Javascript.
+- Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with JavaScript.
 - Deployed web applications using a light cloud service such as Heroku.
 
 ### Natural Resources Wales (2020-2022)
@@ -89,7 +89,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 - Accomplished a dissertation on whistling, whether it is an instrument or a form of communication
 - Acquired a creative and logical thinking with both subjects.
 - Studied and solved countless mathematical proofs and problems.
-- Obtained excellent Micrsoft Word, Excel, and Powerpoint skills.
+- Obtained excellent Microsoft Word, Excel, and PowerPoint skills.
 
 ## **Interests**
 - :musical_note:*Music:* play the Piano (grade 8), Violin (grade 8), and Harp (grade 4).
