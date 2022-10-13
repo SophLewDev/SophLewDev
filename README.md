@@ -37,12 +37,12 @@ XXX  | XXX  | XXX  | XXX
 
 ### Makers Academy (June 2022-October 2022)
 *Intensive Full Stack Software Engineering Bootcamp*
-- Participated in consistent pair programming and team engineering projects.
-- Conscientiously follow Object-Orientated Programming, Test Driven Development, Agile Workflow, debugging tools
-- Languages: Ruby, JavaScript, SQL.
-- Frameworks: Express, Phaser, Rails.
-- Testing Frameworks: RSpec, Jest, Cypress.
-
+- Participated in consistent pair programming and team engineering projects whilst following an Agile workflow. This enabled a great design sprint and flexibility throughout the project for change.
+- Followed Object-Orientated Programming with the languages Ruby and Javscript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle.
+- Strongly used Test Driven Development to a high standard throughout the bootcamp with RSpec, Jest and Cypress. This is highly apparent in my Makers Code Reviews.
+- Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with Javascript.
+- Deployed web applications using a light cloud service such as Heroku.
+- 
 ### Natural Resources Wales (2020-2022)
 *Access to Information and Complaints Officer*
 
