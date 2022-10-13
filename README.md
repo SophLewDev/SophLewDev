@@ -92,7 +92,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 - Obtained excellent Microsoft Word, Excel, and PowerPoint skills.
 
 ## **Interests**
-- :musical_note:*Music:* play the Piano (grade 8), Violin (grade 8), and Harp (grade 4).
+- :musical_note:*Music:* grade 8 pianist, grade 8 violinist, grade 4 harpist.
 - :dancer:*Dancing:* hold qualifications in Ballet and Hip-Hop. It's the best form of exercise!
 - :desktop_computer:*Gaming:* love losing myself into the world of games.
 - :arrow_double_up:*Codewars:* currently 5kyu, but will be climbing higher soon!
