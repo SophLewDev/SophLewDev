@@ -40,6 +40,11 @@ Name          | Description   | Timeframe     | Tech/Tools
 ### Collaborating with others
 ### Advising and Influencing
 ### Time Management
+- Delegated all complaints Natural Resources Wales received. Complaints and Freedom of Information / Environmental Information Regulation requests must meet the deadlines provided by the Ombudsman Services and Information Commissioner's Office.
+- I was responsible for assessing, investigating, and responding to a customer's complaint we received within 20 working days.
+- Abiding by a procedure I implemented, I acknowledged the customer and sent the complaint to the relevant team within the organisation within 5 days. The team then had to send a draft response to myself no later than a week before the deadline, for reviewing.
+- As a result, the customer received their response within the deadline provided by regulatory deadlines, avoiding any further complaints.
+- For my final project at Makers 'Reef Runner', we had 2 weeks to design, create, present, and demo a project to an audience. My previous time management skills enabled us to carefully follow and complete tickets, and hold sprints and retros to reflect and plan ahead,
 
 ## **Experience**
 
