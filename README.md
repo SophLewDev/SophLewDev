@@ -73,7 +73,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 ### BBC Wales - National Eisteddfod (2018)
 *EVS Logger*
 - Utilised my excellent organisational skills by logging and submitting data for each contestant in a fast-paced environment and within the given deadline.
-- Required the utmost focus and communication with all coworkers when logging data for each contestant, to ensure high accuracy and attention to detail.
+- Required the utmost focus and communication with all co-workers when logging data for each contestant, to ensure high accuracy and attention to detail.
 
 
 ### Treganna Primary School (2017-2018)
