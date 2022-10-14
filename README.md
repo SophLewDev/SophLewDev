@@ -25,10 +25,10 @@ Name          | Description   | Timeframe     | Tech/Tools
 ------------- | ------------- | ------------- | -------------
 [Reef Runner](https://github.com/naomischlosser/team-sea-urchins)   | An under the sea 2D scroller game. Full of sea obstacles and powerups, the infinite scroller will most-certainly bring out your competitive side.  | 2 weeks  | Phaser, JS, HTML, Heroku
 [Acebook](https://github.com/Curtis-Turk/the-axylotls-acebook)  | Social media site inspired by Facebook. Users are able to post, comment, like, and edit their profile details.  | 2 weeks  | MongoDB, JS, Express, Handlebars, CSS
-[Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
+[Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
 
 ## **Skills**
-### Communication and customer focus
+### Communication and Customer Focus
 - Managed all complaints that Natural Resources Wales received from customers, and coordinated responses with various teams and seniority levels across the organisation.
 - Part of my role was to review all internal complaint responses before they were sent to the customer. I received a draft complaint response from a team manager; however, the response did not address all of the customer's concerns and was slightly defensive.
 - I included comments and tracked changes to the document and immediately organised a 1:1 meeting with the manager to discuss the comments, provide suggestions, and tips for future responses.
