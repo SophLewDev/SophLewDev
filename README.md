@@ -36,6 +36,13 @@ Name          | Description   | Timeframe     | Tech/Tools
 - My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories, keeping the customer at the heart of the project.
 
 ### Problem solving
+- Dealt with complaints on a number of issues, including staff misconduct.
+- While assessing an urgent complaint regarding staff misconduct, it was unclear whether it was Complaints or HR's responsibility to investigate the complaint.
+- To avoid confusion and delay, I organised a meeting with the HR manager and team to discuss team remits. I also produced an internal and external process when dealing with staff misconduct that included each team's responsibility.
+- My initiative to solve this problem ensured that all teams were clear in their roles regarding staff nmisconduct complaints, and were dealt with appropriately.
+- During my final project 'Reef Runner', one of the first hurdles was creating and adding obstacles. Initially, the obstacles were being added to an array which decreased the game's performance significantly. After researching countless resources online, I discovered that by adding the obstacles in a group instead of an array, it would dramatically improve the game's performance.
+
+
 ### Attention to detail
 ### Collaborating with others
 ### Advising and Influencing
