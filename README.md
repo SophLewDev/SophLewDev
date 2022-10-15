@@ -35,17 +35,23 @@ Name          | Description   | Timeframe     | Tech/Tools
 - This ensured that the customer received an empathetic customer-focussed response which met their needs and addressed all of their issues.
 - My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories, keeping the customer at the heart of the project.
 
-### Problem solving
+### Problem solving, Advising and Influencing
 - Dealt with complaints on a number of issues, including staff misconduct.
-- While assessing an urgent complaint regarding staff misconduct, it was unclear whether it was Complaints or HR's responsibility to investigate the complaint.
-- To avoid confusion and delay, I organised a meeting with the HR manager and team to discuss team remits. I also produced an internal and external process when dealing with staff misconduct that included each team's responsibility.
-- My initiative to solve this problem ensured that all teams were clear in their roles regarding staff nmisconduct complaints, and were dealt with appropriately.
+- While assessing an urgent complaint regarding staff misconduct, I noticed that the Complaint and HR teams' remit in the internal and external policies for these complaints was unclear.
+- I organised a meeting with the complaints and HR team, emphasising the lack of transparency and clarity with the current process. After strongly advising, I was appointed to lead on the matter and wrote and produced an internal and external process for complaints against staff misconduct. I also influenced our Executive Director for Customer, Communication and Commercial to implement this change to the process, who agreed and signed off on the processes I made.
+- My initiative to solve this problem ensured that all teams were clear in their roles regarding staff nmisconduct complaints, were dealt with appropriately, and avoided any confusion or delay to the customer.
 - During my final project 'Reef Runner', one of the first hurdles was creating and adding obstacles. Initially, the obstacles were being added to an array which decreased the game's performance significantly. After researching countless resources online, I discovered that by adding the obstacles in a group instead of an array, it would dramatically improve the game's performance.
 
 
 ### Attention to detail
+- Analysed complex, and sensitive data as part of processing data requests.
+- I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. Part of the documents requested included other people's personal data.
+- Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents and marked any 3rd party personal information with Adobe Acrobat Reader DC. I reviewed the documents several times before then applying the redactions permenantly.
+- My immaculate attention to detail resulted in the customer receiving a correctly redacted document that satisfies their request while not breaching General Data Protection Regulation.
+M - During my project ‘Facebook’, I noticed that our comments were not appearing in our posts page, even though comments were rendering on the comments controller. After analysing the files, I noticed that the comments needed to be rendered / accessed from the posts controller, to then render on to the posts page. Therefore, within the function ‘find’ for posts in the controller, you have to also call the populate method to access comments, and define a path if you want to specify further.
+
 ### Collaborating with others
-### Advising and Influencing
+
 ### Time Management
 - Delegated all complaints Natural Resources Wales received. Complaints and Freedom of Information / Environmental Information Regulation requests must meet the deadlines provided by the Ombudsman Services and Information Commissioner's Office.
 - I was responsible for assessing, investigating, and responding to a customer's complaint we received within 20 working days.
