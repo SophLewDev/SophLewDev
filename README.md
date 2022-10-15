@@ -28,12 +28,12 @@ Name          | Description   | Timeframe     | Tech/Tools
 [Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
 
 ## **Skills**
-### Communication and Customer Focus
+### Communication, Customer Focus and Collaborating with others
 - Managed all complaints that Natural Resources Wales received from customers, and coordinated responses with various teams and seniority levels across the organisation.
-- Part of my role was to review all internal complaint responses before they were sent to the customer. I received a draft complaint response from a team manager; however, the response did not address all of the customer's concerns and was slightly defensive.
-- I included comments and tracked changes to the document and immediately organised a 1:1 meeting with the manager to discuss the comments, provide suggestions, and tips for future responses.
-- This ensured that the customer received an empathetic customer-focussed response which met their needs and addressed all of their issues.
-- My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories, keeping the customer at the heart of the project.
+- Part of my role was to review all internal complaint responses before they were sent to the customer. I received a draft complaint response from a team manager; however, the response did not address all of the customer's concerns and had a slightly defensive tone.
+- I reviewed the response and included comments and tracked changes to the document. I immediately contacted the manager and organised a 1:1 meeting to discuss the comments. During this meeting, I provided points that still needed to be addressed and gave suggestions on what to include and how to phrase it, and tips for future responses.
+- This ensured that the customer received an empathetic customer-focussed response which met their needs and addressed all of their issues. This was a great learning session for myself and the member of staff, and we developed a good work relationship.
+- My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others and providing a great dynamic to the group. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories by always focusing back to these, keeping the customer at the heart of the project.
 
 ### Problem solving, Advising and Influencing
 - Dealt with complaints on a number of issues, including staff misconduct.
@@ -48,9 +48,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 - I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. Part of the documents requested included other people's personal data.
 - Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents and marked any 3rd party personal information with Adobe Acrobat Reader DC. I reviewed the documents several times before then applying the redactions permenantly.
 - My immaculate attention to detail resulted in the customer receiving a correctly redacted document that satisfies their request while not breaching General Data Protection Regulation.
-M - During my project ‘Facebook’, I noticed that our comments were not appearing in our posts page, even though comments were rendering on the comments controller. After analysing the files, I noticed that the comments needed to be rendered / accessed from the posts controller, to then render on to the posts page. Therefore, within the function ‘find’ for posts in the controller, you have to also call the populate method to access comments, and define a path if you want to specify further.
-
-### Collaborating with others
+- During my project ‘Acebook’, I noticed that our comments were not appearing on our posts page, even though comments were being rendered on the comments controller. After analysing the files, I noticed that the comments needed to be rendered and accessed from the posts controller, to then be rendered on to the posts page. Therefore, within the function ‘find’ for posts in the posts controller, I called the populate method to access comments and defined a path to get the user's name that wrote the comment.
 
 ### Time Management
 - Delegated all complaints Natural Resources Wales received. Complaints and Freedom of Information / Environmental Information Regulation requests must meet the deadlines provided by the Ombudsman Services and Information Commissioner's Office.
