@@ -23,8 +23,8 @@
 
 Name          | Description   | Timeframe     | Tech/Tools
 ------------- | ------------- | ------------- | -------------
-[Reef Runner](https://github.com/naomischlosser/team-sea-urchins)   | An under the sea 2D scroller game. Full of sea obstacles and powerups, the infinite scroller will most-certainly bring out your competitive side.  | 2 weeks  | Phaser, JS, HTML, Heroku
-[Acebook](https://github.com/Curtis-Turk/the-axylotls-acebook)  | Social media site inspired by Facebook. Users are able to post, comment, like, and edit their profile details.  | 2 weeks  | MongoDB, JS, Express, Handlebars, CSS
+[Reef Runner](https://github.com/naomischlosser/team-sea-urchins)   | An under the sea 2D scroller game. Full of sea obstacles and powerups, the infinite scroller will most-certainly bring out your competitive side.  | 2 weeks  | Phaser, JavaScript, HTML, Heroku
+[Acebook](https://github.com/Curtis-Turk/the-axylotls-acebook)  | Social media site inspired by Facebook. Users are able to post, comment, like, and edit their profile details.  | 2 weeks  | MongoDB, JavaScript, Express, Handlebars, CSS
 [Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
 
 ## **Skills**
