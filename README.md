@@ -56,7 +56,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 - As a result, the customer received their response within the deadline provided by regulatory deadlines, avoiding any further complaints.
 - For my final project at Makers 'Reef Runner', we had 2 weeks to design, create, present, and demo a project to an audience. My previous time management skills enabled us to carefully follow and complete tickets, and hold sprints and retros to reflect and plan ahead.
 
-## Dedication and Discipline
+### Dedication and Discipline
 - Over a span of 13 years, I dedicated myself to music by learning the Piano, Violin, and Harp.
 - This included strict discipline by organising my own weekly practice sessions, to ensure I improved for each lesson and passed all examinations.
 - After completing grade 8 in the Piano, grade 8 in the Violin, and grade 4 in the Harp, I can affirm that I have a strong mindset for learning and the commitment to see a journey through from start to end.
