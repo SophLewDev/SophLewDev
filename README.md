@@ -44,7 +44,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 
 
 ### Attention to detail
-- I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. This would include analysing complex and sesnitive data, and part of the documents requested included other people's personal data.
+- I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. Part of the documents requested included other people's personal data.
 - Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents, marked and applied redactions using Adobe Acrobat Reader DC, and reviewed the documents several times.
 - My immaculate attention to detail resulted in the customer receiving a correctly redacted document that satisfies their request while not breaching General Data Protection Regulation.
 - During my project ‘Acebook’, I noticed that our comments were not appearing on our posts page, even though comments were being rendered on the comments controller. After analysing the files, I noticed that the comments needed to be rendered and accessed from the posts controller, to then be rendered on to the posts page. Therefore, within the function ‘find’ for posts in the posts controller, I called the populate method to access comments and defined a path to get the user's name that wrote the comment.
@@ -54,14 +54,20 @@ Name          | Description   | Timeframe     | Tech/Tools
 - I was responsible for assessing, investigating, and responding to a customer's complaint we received within 20 working days.
 - Abiding by a procedure I implemented, I acknowledged the customer and sent the complaint to the relevant team within the organisation within 5 days. The team then had to send a draft response to myself no later than a week before the deadline, for reviewing.
 - As a result, the customer received their response within the deadline provided by regulatory deadlines, avoiding any further complaints.
-- For my final project at Makers 'Reef Runner', we had 2 weeks to design, create, present, and demo a project to an audience. My previous time management skills enabled us to carefully follow and complete tickets, and hold sprints and retros to reflect and plan ahead,
+- For my final project at Makers 'Reef Runner', we had 2 weeks to design, create, present, and demo a project to an audience. My previous time management skills enabled us to carefully follow and complete tickets, and hold sprints and retros to reflect and plan ahead.
+
+## Dedication and Discipline
+- Over a span of 13 years, I dedicated myself to music by learning the Piano, Violin, and Harp.
+- This included strict discipline by organising my own weekly practice sessions, to ensure I improved for each lesson and passed all examinations.
+- After completing grade 8 in the Piano, grade 8 in the Violin, and grade 4 in the Harp, I can affirm that I have a strong mindset for learning and the commitment to see a journey through from start to end.
+- Drawing from my discipline and dedication skills, this enabled me to complete an intensive 16 week Makers bootcamp and show that I am a committed and hard-working individual.
 
 ## **Experience**
 
 ### Makers Academy (June 2022-October 2022)
 *Intensive Full Stack Software Engineering Bootcamp*
 - Participated in consistent pair programming and team engineering projects whilst following an Agile workflow. This enabled a great design sprint and flexibility throughout the project for change.
-- Followed Object-Orientated Programming with the languages Ruby and JavaScript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle.
+- Followed Object-Orientated Programming with the languages Ruby and JavaScript, and frameworks Express, Phaser and Rails. I was able to confidently use dependency injection, inheritance, abstraction etc to write clear code in line with single responsibility principle and DRY.
 - Strongly used Test Driven Development to a high standard throughout the bootcamp with RSpec, Jest and Cypress. This is highly apparent in my Makers Code Reviews.
 - Robustly debugged code as a key way of problem solving errors, such as binding.pry with Ruby and console.log with JavaScript.
 - Deployed web applications using a light cloud service such as Heroku.
@@ -69,26 +75,26 @@ Name          | Description   | Timeframe     | Tech/Tools
 ### Natural Resources Wales (2020-2022)
 *Access to Information and Complaints Officer*
 
-- Ensured customer complaints and Freedom of Information / Environmental Information Regulation requests were dealt in a timely manner.
-- Managed all complaints across Wales by delegating to the team.
-- Analysed complex and sensitive data while meeting regulatory deadlines in line with the Ombudsman Services and Information Commissioner's office.
-- Supported internal and external customers with queries relating to complaints and data requests by having 1:1 and team meetings.
-- Produced a monthly Customer Dashboard that included statistics and a written narrative of the month for the Customer directorate, which was then presented to the Executive Directors team.
+- Ensured customer complaints and Freedom of Information / Environmental Information Regulation requests were dealt in a timely manner to avoid further customer dissatisfaction.
+- Managed all complaints across Wales by delegating to the team, creating a streamlined workflow.
+- Analysed complex and sensitive data while meeting regulatory deadlines in line with the Ombudsman Services and Information Commissioner's office, ensuring we were complying with their legislations.
+- Supported internal and external customers with queries relating to complaints and data requests by having 1:1 and team meetings, enabling a great work relationship with many teams across the organisation.
+- Produced a monthly Customer Dashboard that included statistics and a written narrative of the month for the Customer directorate, where I was able to clearly state improvements and trends to the Executive Directors resulting in positive feedback.
 - Created and improved internal policies for complaints and Data Protection / Subject Access Requests to improve the customer and staff experience.
 
 ### Natural Resources Wales (2018-2020)
 *Customer Care Advisor*
 
-- Responsible for resolving customer enquiries across Wales over the telephone, email or digital form.
-- Processed licences and application forms to ensure customers were adhering to environmental regulations.
-- Delegated customer enquiry emails to the team.
-- Managed customer refund requests to ensure they were actioned accordingly and provided within the given timeframe.
-- Produced and improved an internal database that included information on all teams across the organisation and their remit, to ensure that customer enquiries were correctly handled.
+- Responsible for resolving customer enquiries across Wales many different platforms, resulting in good customer service.
+- Processed customer licences and application forms to ensure customer adherence to rules, and improving the overall workflow by providing their certification by the given deadline.
+- Delegated customer enquiry emails to the team, ensuring all customer queries were dealt with and resolved appropriately.
+- Managed customer refund requests to ensure they were actioned accordingly and provided within the given timeframe. This ensured that the organisation was complying with Audit Wales.
+- Produced and improved an internal database that included information on all teams across the organisation and their remit, to ensure that customer enquiries were correctly handled. This improvement the work relationship between the customer team and all teams across the organisation.
 
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
 - Adjudicated several dance categories for Wales' biggest competitive festival aided by my excellent decision making skills.
-- Critiqued and wrote written commentary for each individual and group performance.
+- Critiqued and wrote written commentary for each individual and group performance, using my outstanding advising skills.
 
 
 ### BBC Wales - National Eisteddfod (2018)
@@ -99,8 +105,8 @@ Name          | Description   | Timeframe     | Tech/Tools
 
 ### Treganna Primary School (2017-2018)
 *Learning Support Assistant*
-- Aided autistic children in their learning in a 1:1 environment.
-- Provided creative thinking and patience to accommodate their learning difficulties.
+- Aided autistic children in their learning in a 1:1 environment, provideing creative thinking and patience to accommodate their learning difficulties.
+- My excellent communication skills allowed me to create an optimum learning environment for the individual as well as communication effectively with parents.
 
 
 ## **Education**
