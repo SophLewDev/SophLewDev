@@ -10,6 +10,7 @@
 
 ## **About me**
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in October 2022.
+* :bulb: Switched to a career in coding to actively use my creative and logical mind in an exciting and evergrowing industry.
 * :dragon: Bilingual: Welsh and English.
 * :headphones: Love for gaming and music.
 * :heavy_heart_exclamation: Passion for problem-solving and the pursuance of efficiency. I like to solve everyone's problems!
@@ -26,28 +27,25 @@ Name          | Description   | Timeframe     | Tech/Tools
 [Reef Runner](https://github.com/naomischlosser/team-sea-urchins)   | An under the sea 2D scroller game. Full of sea obstacles and powerups, the infinite scroller will most-certainly bring out your competitive side.  | 2 weeks  | Phaser, JavaScript, HTML, Heroku
 [Acebook](https://github.com/Curtis-Turk/the-axylotls-acebook)  | Social media site inspired by Facebook. Users are able to sign up, log in, log out, post, comment, like, and edit their profile details.  | 2 weeks  | MongoDB, JavaScript, Express, Handlebars, CSS
 [Bank Tech Test](https://github.com/SophLewDev/bank-tech-test)  | A tech test undertaken to showcase clean code and TDD that logs deposits and withdrawals from a bank account.  | 2 days  | JavaScript
-[Chitter Challenge](https://github.com/SophLewDev/chitter-challenge)  | Social medial site isnpired byb Twitter. Users are able to sign up, log in, log out, create and view 'peeps' (aka tweet). | 2 days | Ruby, PostgreSQL, Sinatra, heroku
+[Chitter Challenge](https://github.com/SophLewDev/chitter-challenge)  | Social medial site isnpired by Twitter. Users are able to sign up, log in, log out, create and view 'peeps' (aka tweet). | 2 days | Ruby, PostgreSQL, Sinatra, heroku
 
 ## **Skills**
 ### Communication, Customer Focus and Collaborating with others
 - Managed all complaints that Natural Resources Wales received from customers, and coordinated responses with various teams and seniority levels across the organisation.
-- Part of my role was to review all internal complaint responses before they were sent to the customer. I received a draft complaint response from a team manager; however, the response did not address all of the customer's concerns and had a slightly defensive tone.
-- I reviewed the response and included comments and tracked changes to the document. I immediately contacted the manager and organised a 1:1 meeting to discuss the comments. During this meeting, I provided points that still needed to be addressed and gave suggestions on what to include and how to phrase it, and tips for future responses.
+- I reviewed a draft response from a manager, which did not address all of the customer's concerns and had a defensive tone. I included comments and tracked changes to the document and immediately organised a 1:1 meeting with the manager to discuss the comments. During this meeting, I provided points that still needed to be addressed and gave suggestions on what to include and how to phrase it, and tips for future responses.
 - This ensured that the customer received an empathetic customer-focussed response which met their needs and addressed all of their issues. This was a great learning session for myself and the member of staff, and we developed a good work relationship.
 - My communication and customer-focussed skills thrived through out my time at Makers Bootcamp, enabling me to work well with others and providing a great dynamic to the group. While creating our Project 'Acebook', I ensured that we met the given Minimal Viable Product (MVP) and user stories by always focusing back to these, keeping the customer at the heart of the project.
 
 ### Problem solving, Advising and Influencing
-- Dealt with complaints on a number of issues, including staff misconduct.
 - While assessing an urgent complaint regarding staff misconduct, I noticed that the Complaint and HR teams' remit in the internal and external policies for these complaints was unclear.
-- I organised a meeting with the complaints and HR team, emphasising the lack of transparency and clarity with the current process. After strongly advising, I was appointed to lead on the matter and wrote and produced an internal and external process for complaints against staff misconduct. I also influenced our Executive Director for Customer, Communication and Commercial to implement this change to the process, who agreed and signed off on the processes I made.
-- My initiative to solve this problem ensured that all teams were clear in their roles regarding staff nmisconduct complaints, were dealt with appropriately, and avoided any confusion or delay to the customer.
+- I organised a meeting with the complaints and HR team, emphasising the lack of transparency and clarity with the current process. After strongly advising, I was appointed to lead on the matter and wrote and produced an internal and external process for complaints against staff misconduct, which the Executive team agreed to and signed off.
+- My initiative to solve this problem ensured that all teams were clear in their roles regarding staff misconduct complaints, were dealt with appropriately, and avoided any confusion or delay to the customer. My advising and influencing of the executive team's decision was the catalyst to enable the above positive impact and changes.
 - During my final project 'Reef Runner', one of the first hurdles was creating and adding obstacles. Initially, the obstacles were being added to an array which decreased the game's performance significantly. After researching countless resources online, I discovered that by adding the obstacles in a group instead of an array, it would dramatically improve the game's performance.
 
 
 ### Attention to detail
-- Analysed complex, and sensitive data as part of processing data requests.
-- I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. Part of the documents requested included other people's personal data.
-- Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents and marked any 3rd party personal information with Adobe Acrobat Reader DC. I reviewed the documents several times before then applying the redactions permenantly.
+- I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. This would include analysing complex and sesnitive data, and part of the documents requested included other people's personal data.
+- Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents, marked and applied redactions using Adobe Acrobat Reader DC, and reviewed the documents several times.
 - My immaculate attention to detail resulted in the customer receiving a correctly redacted document that satisfies their request while not breaching General Data Protection Regulation.
 - During my project ‘Acebook’, I noticed that our comments were not appearing on our posts page, even though comments were being rendered on the comments controller. After analysing the files, I noticed that the comments needed to be rendered and accessed from the posts controller, to then be rendered on to the posts page. Therefore, within the function ‘find’ for posts in the posts controller, I called the populate method to access comments and defined a path to get the user's name that wrote the comment.
 
