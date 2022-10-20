@@ -86,10 +86,10 @@ Name          | Description   | Timeframe     | Tech/Tools
 *Customer Care Advisor*
 
 - Responsible for resolving customer enquiries across Wales many different platforms, resulting in good customer service.
-- Processed customer licences and application forms to ensure customer adherence to rules, and improving the overall workflow by providing their certification by the given deadline.
+- Processed customer licenses and application forms to ensure customer adherence to rules, and improving the overall workflow by providing their certification by the given deadline.
 - Delegated customer enquiry emails to the team, ensuring all customer queries were dealt with and resolved appropriately.
 - Managed customer refund requests to ensure they were actioned accordingly and provided within the given timeframe. This ensured that the organisation was complying with Audit Wales.
-- Produced and improved an internal database that included information on all teams across the organisation and their remit, to ensure that customer enquiries were correctly handled. This improvement the work relationship between the customer team and all teams across the organisation.
+- Produced and improved an internal database that included information on all teams across the organisation and their remit, to ensure that customer enquiries were correctly handled. This improved the work relationship between the customer team and all teams across the organisation.
 
 ### Eisteddfod yr Urdd (2017-2022)
 *Dance Adjudicator*
@@ -105,7 +105,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 
 ### Treganna Primary School (2017-2018)
 *Learning Support Assistant*
-- Aided autistic children in their learning in a 1:1 environment, provideing creative thinking and patience to accommodate their learning difficulties.
+- Aided autistic children in their learning in a 1:1 environment, providing creative thinking and patience to accommodate their learning difficulties.
 - My excellent communication skills allowed me to create an optimum learning environment for the individual as well as communication effectively with parents.
 
 
