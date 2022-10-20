@@ -85,7 +85,7 @@ Name          | Description   | Timeframe     | Tech/Tools
 ### Natural Resources Wales (2018-2020)
 *Customer Care Advisor*
 
-- Responsible for resolving customer enquiries across Wales many different platforms, resulting in good customer service.
+- Responsible for resolving customer enquiries across Wales via many different platforms, resulting in good customer service.
 - Processed customer licenses and application forms to ensure customer adherence to rules, and improving the overall workflow by providing their certification by the given deadline.
 - Delegated customer enquiry emails to the team, ensuring all customer queries were dealt with and resolved appropriately.
 - Managed customer refund requests to ensure they were actioned accordingly and provided within the given timeframe. This ensured that the organisation was complying with Audit Wales.
