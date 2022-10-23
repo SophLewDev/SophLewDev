@@ -46,14 +46,14 @@ Name          | Description   | Timeframe     | Tech/Tools
 
 ### Attention to detail
 - I received a Subject Access Request (Data Protection) from a member of the public where they requested their personal information. Part of the documents requested included other people's personal data.
-- Firstly, I assessed what documents and information is relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents, marked and applied redactions using Adobe Acrobat Reader DC, and reviewed the documents several times.
+- Firstly, I assessed what documents and information are relevant to the customer's request and what is their personal data. During my reviewing stages, I carefully examined all documents, marked and applied redactions using Adobe Acrobat Reader DC, and reviewed the documents several times.
 - My immaculate attention to detail resulted in the customer receiving a correctly redacted document that satisfies their request while not breaching General Data Protection Regulation.
 - During my project ‘Acebook’, I noticed that our comments were not appearing on our posts page, even though comments were being rendered on the comments controller. After analysing the files, I noticed that the comments needed to be rendered and accessed from the posts controller, to then be rendered on to the posts page. Therefore, within the function ‘find’ for posts in the posts controller, I called the populate method to access comments and defined a path to get the user's name that wrote the comment.
 
 ### Time Management
 - Delegated all complaints Natural Resources Wales received. Complaints and Freedom of Information / Environmental Information Regulation requests must meet the deadlines provided by the Ombudsman Services and Information Commissioner's Office.
 - I was responsible for assessing, investigating, and responding to a customer's complaint we received within 20 working days.
-- Abiding by a procedure I implemented, I acknowledged the customer and sent the complaint to the relevant team within the organisation within 5 days. The team then had to send a draft response to myself no later than a week before the deadline, for reviewing.
+- Abiding by a procedure I implemented, I acknowledged the customer and sent the complaint to the relevant team within the organisation within 5 days. The team then had to send a draft response to myself no later than a week before the deadline, for review.
 - As a result, the customer received their response within the deadline provided by regulatory deadlines, avoiding any further complaints.
 - For my final project at Makers 'Reef Runner', we had 2 weeks to design, create, present, and demo a project to an audience. My previous time management skills enabled us to carefully follow and complete tickets, and hold sprints and retros to reflect and plan ahead.
 
