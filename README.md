@@ -4,10 +4,11 @@
 [About me](#about-me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 </div>
 
----
+<div align="right"><a href="https://github.com/SophLewDev/CV/"><img alt="cv" title="CV" src="https://img.shields.io/badge/-PDF%20CV-brightgreen" width=70/></a>
+<a href="https://www.linkedin.com/in/sophie-lewis-a53654253/"><img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 
-# Hi there! :wave:
-
+---     
+# Hi there! :wave:                                                                                                            
 ## **About me**
 * :mortar_board: Graduated from Makers Tech Academy bootcamp in October 2022.
 * :bulb: Switched to a career in coding to actively use my creative and logical mind in an exciting and evergrowing industry.
